@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.HttpStatusCheckerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-21T13:07:46" hostname="DESKTOP-DEB41DV" time="0.283">
+  <properties/>
+  <testcase name="testInvalidStatusCode()" classname="org.example.HttpStatusCheckerTest" time="0.283"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
