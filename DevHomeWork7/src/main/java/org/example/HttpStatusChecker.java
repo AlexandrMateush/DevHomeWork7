@@ -13,7 +13,7 @@ public class HttpStatusChecker {
         if (responseCode == HttpURLConnection.HTTP_OK) {
             return url;
         } else {
-            throw new RuntimeException("There is no image for HTTP status " + code);
+            throw new IllegalArgumentException("Invalid HTTP status code: " + code);
         }
     }
 }
